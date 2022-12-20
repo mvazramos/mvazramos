@@ -1,7 +1,7 @@
 👋 Hi, I’m Miguel
 
 Currently I am working as a Data Scientist in Portugal. I have a background in Physics and Applied Mathematics. 
-In my free time I spend a lot of time reading (usually about Statistics or anything about Tech and Science :books:), learn more about programming (currently doing The Odin Project :computer:) and I've started to learn how to make craft beer :beer:!
+In my free time I spend a lot of time reading (usually about Statistics or anything about Tech and Science :books:), learn more about programming (currently doing [The Odin Project](https://www.theodinproject.com) and [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) :computer:) and I've started to learn how to make craft beer :beer:!
 
 
 My "The Odin Project" projects:
@@ -13,6 +13,13 @@ My "The Odin Project" projects:
     - [Calculator](https://mvazramos.github.io/calculator-top/)
 - Full Stack JavaScript:
     - [Sign-up Form](https://mvazramos.github.io/signup-form-top/)   
+
+
+My "Data Engineering Zoomcamp" Progress:
+
+    - *Work in Progress...*
+    
+    
 <!--- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
