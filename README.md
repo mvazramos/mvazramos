@@ -15,9 +15,7 @@ My "The Odin Project" projects:
     - [Sign-up Form](https://mvazramos.github.io/signup-form-top/)   
 
 
-My "Data Engineering Zoomcamp" Progress:
 
-    - *Work in Progress...*
     
     
 <!--- 👀 I’m interested in ...
