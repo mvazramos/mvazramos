@@ -13,6 +13,7 @@ My "The Odin Project" projects:
     - [Calculator](https://mvazramos.github.io/calculator-top/)
 - Full Stack JavaScript:
     - [Sign-up Form](https://mvazramos.github.io/signup-form-top/)   
+    - [Library](https://mvazramos.github.io/top-library/) (Work in Progress)
 
 
 
