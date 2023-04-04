@@ -14,6 +14,7 @@ My "The Odin Project" projects:
 - Full Stack JavaScript:
     - [Sign-up Form](https://mvazramos.github.io/signup-form-top/)   
     - [Library](https://mvazramos.github.io/top-library/)
+    - [Tic-Tac-Toe](https://mvazramos.github.io/top-tictactoe/)
 
 
 
