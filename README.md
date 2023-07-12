@@ -1,7 +1,7 @@
 👋 Hi, I’m Miguel
 
 Currently I am working as a Data Scientist in Portugal. I have a background in Physics and Applied Mathematics. 
-In my free time I spend a lot of time reading (usually about Statistics or anything about Tech and Science :books:), learn more about programming (currently doing [The Odin Project](https://www.theodinproject.com)) and I've started to learn how to make craft beer :beer:!
+In my free time I spend a lot of time reading (anything about Tech and Science :books: or some other random stuff), learn more about programming (currently doing [The Odin Project](https://www.theodinproject.com)) and I've started to learn how to make craft beer :beer:!
 
 
 My "The Odin Project" projects:
