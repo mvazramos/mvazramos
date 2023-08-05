@@ -15,7 +15,7 @@ My "The Odin Project" projects:
     - [Sign-up Form](https://mvazramos.github.io/signup-form-top/)   
     - [Library](https://mvazramos.github.io/top-library/)
     - [Tic-Tac-Toe](https://mvazramos.github.io/top-tictactoe/)
-    - [Weather App](https://mvazramos.github.io/top-weather).
+    - [Weather App](https://mvazramos.github.io/top-weather)
 
 
 
