@@ -1,0 +1,13 @@
+---
+title: "Miguel Ramos"
+image: media/shia.jpg
+about: 
+    template: jolla
+    image-shape: round
+    image-width: 17em
+
+---
+
+👋 Hi, I’m Miguel
+
+Currently I am working as a Data Scientist in Portugal. I have a background in Physics and Applied Mathematics.
