@@ -4,7 +4,7 @@ image: media/eu.jpeg
 about: 
     template: jolla
     image-shape: round
-    image-width: 17em
+    image-width: 10em
 ---
 
 👋 Hi, I’m Miguel
