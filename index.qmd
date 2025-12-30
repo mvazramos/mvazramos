@@ -1,11 +1,10 @@
 ---
 title: "Miguel Ramos"
-image: media/shia.jpg
+image: media/eu.jpeg
 about: 
     template: jolla
     image-shape: round
     image-width: 17em
-
 ---
 
 👋 Hi, I’m Miguel
